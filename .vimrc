@@ -72,4 +72,5 @@ set laststatus=2
 let g:Powerline_symbols='fancy'
 
 " NERDTree 配置
-map <F2>:NERDTreeToggle<CR>
+map <F2> :NERDTreeToggle<CR>
+
